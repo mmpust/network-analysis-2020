@@ -1,0 +1,23 @@
+Id,Label,timeset,value,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,modularity_class,pageranks,componentnumber,clustering,triangles,eigencentrality
+Rothia_mucilaginosa,Rothia,,11.05,6,8.3,2,0.714286,0.8,0.02873,0.282288,0.282288,0,0.052653,0,0.4,6,0.712494
+Streptococcus_australis,Streptococcus,,3.65,7,9.76,2,0.769231,0.85,0.027143,0.371389,0.371389,0,0.058688,0,0.571429,12,0.935206
+Campylobacter_concisus,Campylobacter,,0,5,7.08,2,0.666667,0.75,0.00373,0.292063,0.292063,0,0.042442,0,0.7,7,0.733364
+Prevotella_denticola,Prevotella,,0.03,7,9.64,2,0.769231,0.85,0.007063,0.397684,0.397684,0,0.05701,0,0.714286,15,1
+Parvimonas_micra,Parvimonas,,0.01,6,8.34,2,0.714286,0.8,0.004524,0.353298,0.353298,0,0.049708,0,0.733333,11,0.888894
+Leptotrichia_trevisanii,Leptotrichia,,0.03,2,2.66,3,0.526316,0.583333,0,0.111216,0.111216,0,0.021404,0,1,1,0.28128
+Enterococcus_avium,Enterococcus,,0,3,3.94,2,0.588235,0.65,0.00754,0.133518,0.133518,2,0.029762,0,0.333333,1,0.340125
+Streptococcus_sanguinis,Streptococcus,,3.65,1,1.3,1,1,1,0,0,0,1,0.045455,1,0,0,0.003803
+Streptococcus_intermedius,Streptococcus,,3.65,1,1.3,1,1,1,0,0,0,1,0.045455,1,0,0,0.003803
+Rothia_dentocariosa,Rothia,,11.05,5,6.52,2,0.666667,0.75,0.002143,0.305269,0.305269,0,0.042249,0,0.8,8,0.766618
+Streptococcus_pseudoporcinus,Streptococcus,,3.65,7,9.6,2,0.769231,0.85,0.026349,0.355025,0.355025,2,0.058876,0,0.52381,11,0.895259
+Tannerella_forsythia,Tannerella,,0,7,9.84,2,0.769231,0.85,0.018968,0.378078,0.378078,0,0.057791,0,0.619048,13,0.950948
+Veillonella_parvula,Veillonella,,0.09,4,5.7,1,1,1,0.007143,0,0,3,0.063171,2,0.5,3,0.063495
+Streptococcus_cristatus,Streptococcus,,3.65,4,5.34,1,1,1,0.007143,0,0,3,0.063171,2,0.5,3,0.063495
+Neisseria_elongata,Neisseria,,0,2,2.76,2,0.666667,0.75,0,0,0,3,0.033643,2,1,1,0.042131
+Streptococcus_porcinus,Streptococcus,,3.65,2,2.66,2,0.666667,0.75,0,0,0,3,0.033643,2,1,1,0.042131
+Pseudopropionibacterium_propionicum,Pseudopropionibacterium,,0,2,2.58,2,0.666667,0.75,0,0,0,3,0.033643,2,1,1,0.042131
+Streptococcus_constellatus,Streptococcus,,3.65,3,3.88,3,0.555556,0.633333,0.002381,0.147446,0.147446,2,0.029417,0,0.666667,2,0.373923
+Haemophilus_parainfluenzae,Haemophilus,,1.79,1,1.32,3,0.5,0.611111,0,0,0,4,0.031898,3,0,0,0.007058
+Haemophilus_haemolyticus,Haemophilus,,1.79,2,2.58,2,0.75,0.833333,0.009524,0,0,4,0.059011,3,0,0,0.011805
+Prevotella_intermedia,Prevotella,,0.03,1,1.46,3,0.5,0.611111,0,0,0,4,0.031898,3,0,0,0.007058
+Streptococcus_pneumoniae,Streptococcus,,3.65,2,2.72,2,0.75,0.833333,0.009524,0,0,4,0.059011,3,0,0,0.011805

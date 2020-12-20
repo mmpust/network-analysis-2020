@@ -1,0 +1,12 @@
+Id,Label,timeset,value,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,modularity_class,pageranks,componentnumber,clustering,triangles,eigencentrality
+Rothia_mucilaginosa,Rothia,,2.44,1,1.78,1,1,1,0,0,0,0,0.090909,0,0,0,0.056348
+Streptococcus_australis,Streptococcus,,2.41,1,1.78,1,1,1,0,0,0,0,0.090909,0,0,0,0.056348
+Veillonella_parvula,Veillonella,,0,2,3.48,1,1,1,0,0.57735,0.57735,1,0.090909,1,1,1,1
+Leptotrichia_wadei,Leptotrichia,,0,2,3.74,1,1,1,0,0.57735,0.57735,1,0.090909,1,1,1,1
+Capnocytophaga_sputigena,Capnocytophaga,,0,2,3.74,1,1,1,0,0.57735,0.57735,1,0.090909,1,1,1,1
+Streptococcus_oralis,Streptococcus,,2.41,1,1.78,1,1,1,0,0,0,2,0.090909,2,0,0,0.056348
+Streptococcus_mitis,Streptococcus,,2.41,1,1.78,1,1,1,0,0,0,2,0.090909,2,0,0,0.056348
+Staphylococcus_pseudintermedius,Staphylococcus,,0,1,2,1,1,1,0,0,0,3,0.090909,3,0,0,0.056348
+Moraxella_catarrhalis,Moraxella,,0,1,2,1,1,1,0,0,0,3,0.090909,3,0,0,0.056348
+Lactobacillus_curvatus,Lactobacillus,,0.01,1,2,1,1,1,0,0,0,4,0.090909,4,0,0,0.056348
+Campylobacter_lari,Campylobacter,,0,1,2,1,1,1,0,0,0,4,0.090909,4,0,0,0.056348
